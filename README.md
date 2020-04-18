@@ -1,2 +1,2 @@
 # website
-Testing GitHub PAges
+Testing GitHub Pages
